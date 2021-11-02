@@ -1,6 +1,6 @@
 # week-of-mount-with-python
 
-contoh olah data cvs dengan py
+contoh olah data csv dengan py
 
     import pytz, datetime, pendulum, json, csv
     from datetime import datetime, timedelta
